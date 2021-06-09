@@ -13,18 +13,3 @@ Step 2:
         If you chose the optional TouchScreen Display, connect the display to the RaspberryPi. Else connect the RPI to a touchscreen display, or any display as well as a keyboard and mouse.
 
 Step 3: (download the Planet CNC Software)
-
-
-
-
-
-
-Step x:
-        the Plant CNC Mk3/4 (4 axis) controller. Connect the RaspberryPi and the controler via USB.
-        
-![Raspberry Pi Picture (for read me)](https://user-images.githubusercontent.com/84732665/121400961-316b7c00-c926-11eb-8e80-2503f2c32d81.PNG)
-RaspberryPi 4 Model B (8GB)
-
-![Mk3-4 Picture (for read me)](https://user-images.githubusercontent.com/84732665/121400996-3af4e400-c926-11eb-89ea-b55e61602ee0.PNG)
-Plant CNC Mk3/4 (4 axis) controller
-
