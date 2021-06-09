@@ -7,7 +7,7 @@ All of the parts used in the project can be found in the "name" folder with the 
 
 
 
-Step 1: (Raspbian) This project was designed to be ran off of a RaspberryPi 4 Model B (8GB).
+Step 1: This project was designed to be ran off of a RaspberryPi 4 Model B (8GB), as well as the free operating system Raspbian. To download Raspbian follow RaspberryPi's official download tutorial at: https://www.raspberrypi.org/documentation/installation/installing-images/
 
 Step 2:
         If you chose the optional TouchScreen Display, connect the display to the RaspberryPi. Else connect the RPI to a touchscreen display, or any display as well as a keyboard and mouse.
