@@ -6,7 +6,6 @@ This project was created by the teachers and students at Nashua High School Sout
 All of the parts used in the project can be found in the "name" folder with the excel file, or the google sheets file.
 
 
-
 Step 1: This project was designed to be ran off of a RaspberryPi 4 Model B (8GB), as well as the free operating system Raspbian. To download Raspbian follow RaspberryPi's official download tutorial at: https://www.raspberrypi.org/documentation/installation/installing-images/
 
 Step 2:
