@@ -26,4 +26,6 @@ searching "Planet CNC Software"
 
 Step 4: Connect the Plant CNC MK3/4 controller Via usb
 
-Setp 5:
+Setp 5: Purchase and activate the Planet CNC License in order to use and controller with the hardware.
+
+Step 6: Now that we have the software setup and activated, we will start working on the hardware and wiring things to work. 
