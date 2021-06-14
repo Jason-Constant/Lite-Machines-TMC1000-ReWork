@@ -7,7 +7,8 @@ This project was created by the teachers and students at Nashua High School Sout
 used, or non functional around the classroom. The students decided to tackle the problem and get the machines running and useful for the next years classes. The following is work
 done from the students and teachers and has been documented as open-source instructions to try and help anyone with building the TMC1000 CNC machine, as well as many like it.
 
-All of the parts used in the project can be found in the "Parts List" folder with the excel file, or the google sheets file.
+All of the parts used in the project can be found with the parts list excel file, or with google sheets at:
+https://docs.google.com/spreadsheets/d/1oB2_8kQT0YI9Jluc7MAbP1K0-m6zmKGLGUpFqq22EpM/edit?usp=sharing
 
 
 Step 1: This project was designed to be ran off of a RaspberryPi 4 Model B (8GB), as well as the free operating system Raspbian. To download Raspbian follow RaspberryPi's official
