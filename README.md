@@ -1,6 +1,6 @@
 # Lite-Machines-TMC1000-ReWork
 This project is designed as a step by step process to work around the proprietary hardware and software that has been out of date for years, on the Lite Machines TMC1000 CNC
-machine. This project will allow you to build an updated the controller module for the CNC machine with modern harware (Raspberry Pi / Planet CNC Controller) and modern software
+machine. This project will allow you to build an updated the controller module for the CNC machine with modern hardware (Raspberry Pi / Planet CNC Controller) and modern software
 (PlanetCNC).
 
 This project was created by the teachers and students at Nashua High School South in the Manufacturing class. The problem came apparent that there were many CNC machines not being
@@ -12,21 +12,21 @@ https://docs.google.com/spreadsheets/d/1oB2_8kQT0YI9Jluc7MAbP1K0-m6zmKGLGUpFqq22
 Some of the optional parts in the list include parts that were reused from the old components, but knowing that some may not want to take apart the old machines, the parts we 
 reused are included in the list.
 
-Step 1: This project was designed to be ran off of a RaspberryPi 4 Model B (8GB), as well as the free operating system Raspbian. To download Raspbian follow RaspberryPi's official
+Step 1: This project was designed to be run off of a RaspberryPi 4 Model B (8GB), as well as the free operating system Raspbian. To download Raspbian follow RaspberryPi's official
 download tutorial at: https://www.raspberrypi.org/documentation/installation/installing-images/
 
 Step 2:
-        If you chose the optional TouchScreen Display, connect the display to the RaspberryPi. Else connect the RPI to a touchscreen display, or any display as well as a keyboard
+        If you choose the optional TouchScreen Display, connect the display to the RaspberryPi. Else connect the RPI to a touchscreen display, or any display as well as a keyboard
 and mouse.
 
-Steps 1 and 2 can be bypassed if you decided to use a desktop computer to run Plant CNC.
+Steps 1 and 2 can be bypassed if you decide to use a desktop computer to run Plant CNC.
 
 Step 3: After setting up the RPI (RaspberryPI) with raspbian access the internet and download and start up the Planet CNC software at: https://planet-cnc.com/software/ or by 
 searching "Planet CNC Software"
 
 Step 4: Connect the Planet CNC MK3/4 controller Via usb
 
-Setp 5: Purchase and activate the Planet CNC License in order to use and controller with the hardware.
+Step 5: Purchase and activate the Planet CNC License in order to use and controller with the hardware.
 
 Step 6: Now that we have the software setup and activated, we will start working on the hardware and wiring things to work. Using the "Hardware Manuals" folder 
 set your subdivision and current settings on the stepper driver, based off of the stepper motors you are using.
@@ -50,9 +50,9 @@ Step 12: To calibrate your machine use the instructions given by Planet CNC at: 
 
 CREDITS
 
-Contributers:
+Contributors:
         Teacher - John Finocchiaro
-        Sudent - Jason Constant
+        Student - Jason Constant
         Student - Benjamin Currier
         
 Software/Hardware Companies:
