@@ -48,4 +48,12 @@ for you to calibrate your machine.
 
 Step 12: To calibrate your machine use the instructions given by Planet CNC at: https://planet-cnc.com/how-to-setup-cnc/
 
+CREDITS
 
+Contributers:
+        Teacher - John Finocchiaro
+        Sudent - Jason Constant
+        Student - Benjamin Currier
+        
+Software/Hardware Companies:
+        Planet CNC - https://planet-cnc.com/
