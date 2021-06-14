@@ -40,7 +40,12 @@ be "plug and play" to the CNC machine.
 Step 9: Now that the stepper motors are wired up, we can work on the spindle. Fortunately the spindle wires directly from the board to the three connector "wall outlet" style 
 plug.
 
-Step 10: Wow that everything is wired up, double check that the wiring is correct, then wire the power to the MK3/4 and using the Planet CNC Software we can start controlling 
+Step 10: Wow that everything is wired up, double check that the wiring is correct, then wire the power to the MK3/4 and using the Planet CNC Software so we can start controlling 
 the CNC Machine.
 
-Step 11: Copy over the settings in the "
+Step 11: Copy over the settings in the "Software Settings" folder to the Planet CNC Software and test to make sure the machine runs. There will be an STL file provided in order 
+for you to calibrate your machine.
+
+Step 12: To calibrate your machine use the instructions given by Planet CNC at: https://planet-cnc.com/how-to-setup-cnc/
+
+
