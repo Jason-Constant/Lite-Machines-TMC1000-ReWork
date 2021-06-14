@@ -9,7 +9,8 @@ done from the students and teachers and has been documented as open-source instr
 
 All of the parts used in the project can be found with the parts list excel file, or with google sheets at:
 https://docs.google.com/spreadsheets/d/1oB2_8kQT0YI9Jluc7MAbP1K0-m6zmKGLGUpFqq22EpM/edit?usp=sharing
-
+Some of the optional parts in the list include parts that were reused from the old components, but knowing that some may not want to take apart the old machines, the parts we 
+reused are included in the list.
 
 Step 1: This project was designed to be ran off of a RaspberryPi 4 Model B (8GB), as well as the free operating system Raspbian. To download Raspbian follow RaspberryPi's official
 download tutorial at: https://www.raspberrypi.org/documentation/installation/installing-images/
@@ -18,7 +19,11 @@ Step 2:
         If you chose the optional TouchScreen Display, connect the display to the RaspberryPi. Else connect the RPI to a touchscreen display, or any display as well as a keyboard
 and mouse.
 
-Step 3: After setting up the RPI (RaspberryPI) with raspbian access the internet and download the Planet CNC software at: https://planet-cnc.com/software/ or by searching
-"Planet CNC Software"
+Steps 1 and 2 can be bypassed if you decided to use a desktop computer to run Plant CNC.
 
-Step 4: 
+Step 3: After setting up the RPI (RaspberryPI) with raspbian access the internet and download and start up the Planet CNC software at: https://planet-cnc.com/software/ or by 
+searching "Planet CNC Software"
+
+Step 4: Connect the Plant CNC MK3/4 controller Via usb
+
+Setp 5:
