@@ -17,4 +17,7 @@ Step 2:
         If you chose the optional TouchScreen Display, connect the display to the RaspberryPi. Else connect the RPI to a touchscreen display, or any display as well as a keyboard
 and mouse.
 
-Step 3: (download the Planet CNC Software)
+Step 3: After setting up the RPI (RaspberryPI) with raspbian access the internet and download the Planet CNC software at: https://planet-cnc.com/software/ or by searching
+"Planet CNC Software"
+
+Step 4: 
