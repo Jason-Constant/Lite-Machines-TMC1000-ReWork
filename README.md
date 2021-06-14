@@ -32,5 +32,12 @@ Step 6: Now that we have the software setup and activated, we will start working
 set your subdivision and current settings based off of the stepper motors you are using.
 
 Step 7: Using the wiring diagrams in the "Wiring Diagrams" folder we can now wire the board to the stepper motor drivers (more information on the drivers can be found in the 
-"Hardware Manuals" folder).
+"Hardware Manuals" folder used in the previous step).
 
+Step 8: Using the wiring diagrams previously used, as well as the "DB15 DB9 Wiring" folder, wire the stepper motor drivers to the DB connectors. This will allow for the box to 
+be "plug and play" to the CNC machine.
+
+Step 9: Now that the stepper motors are wired up, we can work on the spindle. Fortunately the spindle wires directly from the board to the three connector "wall outlet" style 
+plug.
+
+Step 10: now that everything is wired up
