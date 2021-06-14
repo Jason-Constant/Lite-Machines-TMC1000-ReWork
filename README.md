@@ -28,4 +28,9 @@ Step 4: Connect the Plant CNC MK3/4 controller Via usb
 
 Setp 5: Purchase and activate the Planet CNC License in order to use and controller with the hardware.
 
-Step 6: Now that we have the software setup and activated, we will start working on the hardware and wiring things to work. 
+Step 6: Now that we have the software setup and activated, we will start working on the hardware and wiring things to work. Using the "Stepper Motor Driver Information" folder 
+set your subdivision and current settings based off of the stepper motors you are using.
+
+Step 7: Using the wiring diagrams in the "Wiring Diagrams" folder we can now wire the board to the stepper motor drivers (more information on the drivers can be found in the 
+"Stepper Motor Driver Information" folder).
+
