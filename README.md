@@ -13,6 +13,8 @@ https://docs.google.com/spreadsheets/d/1oB2_8kQT0YI9Jluc7MAbP1K0-m6zmKGLGUpFqq22
 Some of the optional parts in the list include parts that were reused from the old components, but knowing that some may not want to take apart the old machines, the parts we 
 reused are included in the list.
 
+(The final Wiring Diagram that will layout everything on one page has not been released yet, but is planned to be soon)
+
 Step 1: This project was designed to be run off of a RaspberryPi 4 Model B (8GB), as well as the free operating system Raspbian. To download Raspbian follow RaspberryPi's 
 official download tutorial at: https://www.raspberrypi.org/documentation/installation/installing-images/
 
